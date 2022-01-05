@@ -6,3 +6,6 @@ This group has 3 members
 - To Duc Anh (leader)
 - Bui Thi Thu Huong
 - Mai Le Hoang
+
+
+[Link to Kaggle data](https://www.kaggle.com/jessemostipak/hotel-booking-demand)
